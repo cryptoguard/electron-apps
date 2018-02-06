@@ -17,10 +17,8 @@ category: Finance
 screenshots:
     -
         imageUrl: 'https://github.com/particl/particl-desktop/blob/develop/preview.gif'
-video: 'https://www.youtube.com/watch?v=PRxmGh24ILU'
-additional links: 
-    -
-        'https://github.com/particl/whitepaper/blob/master/decentralized-private-marketplace-draft-0.1.pdf'
-        'https://www.dropbox.com/sh/iesm8ulr6edwrfh/AACbp3A-SbJkf1Up2CEjroj8a?dl=0'
-        'https://www.particl.wiki/'
-        'https://www.gitbook.com/book/kewde/protocol/details'
+        caption: 'Particl Desktop overview'
+        imageUrl: 'https://media.giphy.com/media/3o7WIrNO7lvJ6cm4ww/giphy.gif'
+        caption 'Particl Desktop 1.1 Release'
+youtube_video_url: 'https://www.youtube.com/watch?v=PRxmGh24ILU'
+
